@@ -107,7 +107,7 @@
 
   <script>
     // === CONFIG ===
-    const WHATSAPP_NUMBER = "673XXXXXXXX"; // change to your number
+    const WHATSAPP_NUMBER = "6738121098"; // change to your number
 
     // === MENU DATA ===
     const menuItems = [
